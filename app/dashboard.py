@@ -102,7 +102,7 @@ st.markdown(
     f"""<div style="background:linear-gradient(100deg,{C['primary']},{C['blue']});
     padding:22px 26px;border-radius:14px;margin-bottom:18px;">
     <div style="font-size:1.7rem;font-weight:800;color:white;">
-    Indonesia Economic Intelligence 🇮🇩</div>
+    Indonesia Economic Intelligence</div>
     <div style="color:#F4D9D6;font-size:.9rem;margin-top:4px;">
     60+ years of national indicators · World Bank Open Data ·
     by <b>Sandi Ridwan</b></div></div>""",
@@ -260,7 +260,7 @@ with tab4:
 st.markdown(
     f"""<hr style="border-color:#2A3038;">
     <div style="color:{C['grey']};font-size:.8rem;text-align:center;">
-    Indonesia Economic Intelligence 🇮🇩 · World Bank Open Data · built with
+    Indonesia Economic Intelligence · World Bank Open Data · built with
     Streamlit + Plotly · by <b>Sandi Ridwan</b><br>
     Recent years may include World Bank projections.</div>""",
     unsafe_allow_html=True)
