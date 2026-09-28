@@ -1,0 +1,119 @@
+{
+  "years": [
+    1960,
+    2025
+  ],
+  "n_indicators": 17,
+  "insights": {
+    "gdp_pc_1967": 53.0,
+    "gdp_pc_latest": 5060.0,
+    "gdp_pc_latest_year": 2025,
+    "gdp_pc_cagr_1967_2025": 8.17,
+    "pop_1960": 88296070,
+    "pop_latest": 285721236,
+    "pop_latest_year": 2025,
+    "inflation_max": 1136.3,
+    "inflation_max_year": 1966,
+    "inflation_latest": 1.9,
+    "inflation_latest_year": 2025,
+    "growth_min": -13.1,
+    "growth_min_year": 1998,
+    "growth_latest": 5.1,
+    "urban_1960": 14.6,
+    "urban_latest": 59.4,
+    "internet_2000": 0.9,
+    "internet_latest": 72.8,
+    "life_1960": 46.8,
+    "life_latest": 71.3
+  },
+  "forecast": [
+    {
+      "indicator": "gdp_usd",
+      "method": "log",
+      "r2": 0.9305,
+      "mape_pct": 6.35,
+      "last_year": 2025,
+      "last_value": 1445642584163.81,
+      "pred_2030": 1722230924408.63,
+      "growth_pct": 19.1,
+      "pred_2029": NaN
+    },
+    {
+      "indicator": "gdp_per_capita_usd",
+      "method": "log",
+      "r2": 0.871,
+      "mape_pct": 7.13,
+      "last_year": 2025,
+      "last_value": 5059.63,
+      "pred_2030": 5703.43,
+      "growth_pct": 12.7,
+      "pred_2029": NaN
+    },
+    {
+      "indicator": "population",
+      "method": "log",
+      "r2": 0.9887,
+      "mape_pct": 3.04,
+      "last_year": 2025,
+      "last_value": 285721236.0,
+      "pred_2030": 313586798.22,
+      "growth_pct": 9.8,
+      "pred_2029": NaN
+    },
+    {
+      "indicator": "urban_pct",
+      "method": "linear",
+      "r2": 0.9829,
+      "mape_pct": 3.06,
+      "last_year": 2025,
+      "last_value": 59.39,
+      "pred_2030": 64.95,
+      "growth_pct": 9.4,
+      "pred_2029": NaN
+    },
+    {
+      "indicator": "life_expectancy",
+      "method": "linear",
+      "r2": 0.9298,
+      "mape_pct": 2.18,
+      "last_year": 2024,
+      "last_value": 71.29,
+      "pred_2030": NaN,
+      "growth_pct": 2.3,
+      "pred_2029": 72.93
+    },
+    {
+      "indicator": "internet_pct",
+      "method": "damped",
+      "r2": 0.9172,
+      "mape_pct": 19.84,
+      "last_year": 2024,
+      "last_value": 72.78,
+      "pred_2030": NaN,
+      "growth_pct": 8.4,
+      "pred_2029": 78.9
+    },
+    {
+      "indicator": "inflation_pct",
+      "method": "mean_rev",
+      "r2": 0.644,
+      "mape_pct": 52.84,
+      "last_year": 2025,
+      "last_value": 1.91,
+      "pred_2030": 2.87,
+      "growth_pct": 50.0,
+      "pred_2029": NaN
+    },
+    {
+      "indicator": "co2_mt",
+      "method": "log",
+      "r2": 0.9581,
+      "mape_pct": 7.28,
+      "last_year": 2024,
+      "last_value": 812.2,
+      "pred_2030": NaN,
+      "growth_pct": 10.8,
+      "pred_2029": 899.59
+    }
+  ]
+}

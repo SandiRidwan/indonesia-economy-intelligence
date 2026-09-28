@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Log sementara
+reports/_*.txt
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Kredensial
+.env
+*.key
+*credentials*.json

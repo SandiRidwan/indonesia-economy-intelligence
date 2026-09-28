@@ -1,0 +1,875 @@
+country,country_iso3,indicator_code,indicator,indicator_label,category,year,value
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1970,31.1237
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1971,31.4961
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1972,37.2634
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1973,42.0333
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1974,46.9566
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1975,48.7947
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1976,52.5271
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1977,71.7987
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1978,84.4666
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1979,90.9196
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1980,90.5994
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1981,95.6587
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1982,96.402
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1983,95.4221
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1984,97.6447
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1985,106.0383
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1986,117.1036
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1987,120.215
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1988,128.6681
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1989,134.4848
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1990,161.7687
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1991,174.6593
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1992,182.5524
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1993,199.8507
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1994,212.7475
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1995,239.099
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1996,252.0076
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1997,275.5207
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1998,278.2434
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,1999,295.25
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2000,299.0702
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2001,319.562
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2002,324.9389
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2003,353.623
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2004,360.1513
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2005,362.597
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2006,383.4194
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2007,401.7934
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2008,397.2554
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2009,411.3491
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2010,443.682
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2011,499.9362
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2012,504.2572
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2013,474.9651
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2014,505.0762
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2015,512.3973
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2016,507.0965
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2017,535.7474
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2018,596.4692
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2019,637.5692
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2020,596.2839
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2021,622.6868
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2022,722.6996
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2023,772.5618
+Indonesia,IDN,EN.GHG.CO2.MT.CE.AR5,co2_mt,CO2 emissions (Mt),Environment,2024,812.2042
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,1972,2.78820991516113
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,1989,0.871410012245178
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,1994,0.998549997806549
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,1995,1.00434994697571
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,1996,1.07854998111725
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,1997,1.07208001613617
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2001,2.46003007888794
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2002,2.64568996429443
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2003,3.21799993515015
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2004,2.74846005439758
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2005,2.87281990051269
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2007,3.04426002502441
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2008,2.90190005302429
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2009,3.52513003349304
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2010,2.81227993965149
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2011,3.18944001197815
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2012,3.40748000144958
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2013,3.35904002189636
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2014,3.28800988197327
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2015,3.58361005783081
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2016,1.21023452496964
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2017,1.05324382490056
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2018,0.994436460846179
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2019,0.964399077622927
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2020,1.01593221347809
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2021,1.03221750658374
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2022,0.863943349575907
+Indonesia,IDN,SE.XPD.TOTL.GD.ZS,education_pct_gdp,Education spend (% GDP),Social,2023,1.27517088245674
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1960,11.5325474115838
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1961,11.0614762816422
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1962,5.1681521983372
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1963,9.06881077038145
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1964,12.2520501857433
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1965,5.2762547448334
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1966,12.7572016460905
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1967,8.77565463552725
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1968,10.8694615347928
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1969,9.0139808682855
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1970,12.8443113772455
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1971,14.4199346405229
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1972,16.5162138475022
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1973,20.0536026297865
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1974,28.9979454613373
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1975,22.547755586316
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1976,22.1740901420471
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1977,23.4909813946883
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1978,21.8671414754243
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1979,30.0658227531897
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1980,30.4741702735352
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1981,27.6304440372406
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1982,22.379034286615
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1983,27.7454082629556
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1984,27.3149786111737
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1985,23.7776707966994
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1986,20.4956024570461
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1987,24.5768000967818
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1988,25.041659395038
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1989,26.0875546625977
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1990,27.3057589781449
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1991,28.3512610672578
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1992,30.3074635078275
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1993,26.7548134217247
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1994,26.5114278515733
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1995,26.3121650131426
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1996,25.8245519820943
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1997,27.8592432831317
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1998,52.968134566078
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,1999,35.5141290838601
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2000,40.9773084738704
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2001,39.0321390955111
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2002,32.6876208878375
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2003,30.4776547809661
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2004,32.2166946182599
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2005,34.0672676279992
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2006,31.0347163143166
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2007,29.4357184851264
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2008,29.8082841673732
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2009,24.1591196686279
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2010,24.2990309366408
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2011,26.3273530888836
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2012,24.5943787881769
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2013,23.9235763793605
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2014,23.6659845969367
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2015,21.1601792598059
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2016,19.0889938536664
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2017,20.1773044351106
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2018,21.0027464972455
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2019,18.5915277970883
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2020,17.3311682848923
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2021,21.4165556390653
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2022,24.5029116862832
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2023,21.8085632197562
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2024,22.3096487702606
+Indonesia,IDN,NE.EXP.GNFS.ZS,exports_pct_gdp,Exports (% GDP),Trade,2025,22.8465482987858
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1970,1.58873353293413
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1971,3.20425172245555
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1972,2.30523225241017
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1973,3.57027571297421
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1974,0.705825550989914
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1975,4.24128851064663
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1976,2.00592143120381
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1977,0.513000573361318
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1978,0.811785370804867
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1979,0.439687121934464
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1980,0.248336362296103
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1981,0.155522389416403
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1982,0.249560636589718
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1983,0.360261287911682
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1984,0.261626776354664
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1985,0.36346800280403
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1986,0.322685251406443
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1987,0.507048517276106
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1988,0.683272607101238
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1989,0.722064256022232
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1990,1.02976494269192
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1991,1.2707722797342
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1992,1.38798883350104
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1993,1.26830064559013
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1994,1.1922519299764
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1995,2.15007984011937
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1996,2.72419788646708
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1997,2.16779685196237
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1998,-0.252290447660406
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,1999,-1.33257354110795
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2000,-2.75743993350903
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2001,-1.85568619300523
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2002,0.0741516383181159
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2003,-0.254256320381005
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2004,0.738243979887563
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2005,2.91611483313067
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2006,1.34794264068931
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2007,1.6030105718879
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2008,1.82632902403998
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2009,0.90391941965406
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2010,2.02517914569356
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2011,2.30298429381592
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2012,2.30978031853073
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2013,2.55135633401058
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2014,2.81997260412102
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2015,2.29761639380441
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2016,0.487372471368879
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2017,2.01948919812582
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2018,1.81428979349441
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2019,2.23336204282241
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2020,1.81058402027127
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2021,1.7878556314554
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2022,1.87264100861425
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2023,1.57116966408747
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2024,1.73855290316368
+Indonesia,IDN,BX.KLT.DINV.WD.GD.ZS,fdi_pct_gdp,FDI inflows (% GDP),Investment,2025,1.54140671670434
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1961,5.74064582266813
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1962,1.84197770236842
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1963,-2.23702998571657
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1964,3.52969814993797
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1965,1.08158946626055
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1966,2.79134682484525
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1967,1.38040280607036
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1968,10.9151785714295
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1969,6.82229824913614
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1970,7.55463451394223
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1971,7.02399719740848
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1972,7.03764320785962
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1973,8.1039755351653
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1974,7.6346729055067
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1975,4.97730086669512
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1976,6.88656497352524
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1977,8.76132560106353
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1978,6.76706985763171
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1979,7.32430948559606
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1980,9.88007752166418
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1981,7.92715682412874
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1982,2.24644534036375
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1983,4.1929673681999
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1984,6.97552780884124
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1985,2.46214356422551
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1986,5.87504510359864
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1987,4.92592736496611
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1988,5.7804984881177
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1989,7.45658692516847
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1990,7.24213163856464
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1991,6.91198283591309
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1992,6.49750651682714
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1993,6.49640812045304
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1994,7.53997109551439
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1995,8.22000739903493
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1996,7.81818707670867
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1997,4.69987885390397
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1998,-13.1267254923818
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,1999,0.79112608199847
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2000,4.9200677470169
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2001,3.64346644721492
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2002,4.49947539085764
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2003,4.78036912167654
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2004,5.03087394501685
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2005,5.69257130383384
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2006,5.50095178520348
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2007,6.34502222667214
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2008,6.01370360009123
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2009,4.62887118256153
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2010,6.22385418062366
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2011,6.16978420771008
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2012,6.03005065305615
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2013,5.5572636889101
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2014,5.006668425755
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2015,4.87632230022123
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2016,5.03306918280177
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2017,5.06978590134916
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2018,5.17429153955024
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2019,5.01928768046282
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2020,-2.06551182934165
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2021,3.70288562827751
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2022,5.30719722664799
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2023,5.04883117855516
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2024,5.03257477088519
+Indonesia,IDN,NY.GDP.MKTP.KD.ZG,gdp_growth_pct,GDP growth (%),Output,2025,5.10808904438025
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1967,53.2051866988581
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1968,64.6547730642556
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1969,74.0988114128793
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1970,79.118823484002
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1971,78.5428393869752
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1972,90.1147549138956
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1973,129.886231088685
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1974,200.710984454591
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1975,231.060120618497
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1976,275.713167824796
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1977,330.670214101079
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1978,362.483779779007
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1979,353.424175826329
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1980,486.620172021155
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1981,560.830336032961
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1982,577.745632722784
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1983,507.682945653414
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1984,519.774063103241
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1985,511.400883618027
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1986,469.834241253429
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1987,437.60655039936
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1988,476.662483405818
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1989,524.143027322576
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1990,578.420121135382
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1991,624.387495384411
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1992,673.67103954742
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1993,817.395116417856
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1994,899.793982949817
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1995,1011.22614205568
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1996,1118.92133024129
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1997,1044.60674832472
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1998,454.877800792123
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,1999,657.268934667018
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2000,763.711124950924
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2001,732.307093405708
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2002,881.002913569131
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2003,1043.2105838671
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2004,1126.84004447173
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2005,1238.21447629488
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2006,1558.31562847163
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2007,1823.21976255073
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2008,2124.55483920618
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2009,2218.48541852977
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2010,3065.68348377765
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2011,3579.46442466152
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2012,3632.27254030331
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2013,3566.60284506078
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2014,3441.06808464008
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2015,3288.22269725538
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2016,3521.46943457574
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2017,3798.88326174526
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2018,3860.95353090726
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2019,4106.94856160358
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2020,3853.70288774146
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2021,4287.17313995098
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2022,4730.83484836107
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2023,4876.2992959843
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2024,4925.43644992666
+Indonesia,IDN,NY.GDP.PCAP.CD,gdp_per_capita_usd,GDP per capita (US$),Output,2025,5059.62596411213
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1967,5667756627.92093
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1968,7076465299.81141
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1969,8337423312.88344
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1970,9150684931.50685
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1971,9333536369.94567
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1972,10997590361.4458
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1973,16273253012.0482
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1974,25802409638.5542
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1975,30463855421.6867
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1976,37269156626.506
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1977,45808915662.6506
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1978,51455719075.8254
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1979,51400186342.8889
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1980,72482337397.4439
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1981,85518233419.0479
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1982,90158449294.9921
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1983,81052283383.7155
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1984,84853700027.651
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1985,85289488375.4435
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1986,79954072544.5279
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1987,75929617557.7521
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1988,84300174485.7973
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1989,94451427876.6628
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1990,106140727333.636
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1991,116621996217.133
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1992,128026966579.964
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1993,158006700301.533
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1994,176892143931.505
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1995,202132028723.115
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1996,227369679374.973
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1997,215748998609.635
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1998,95445547872.715
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,1999,140001351215.462
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2000,165021012077.81
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2001,160446947784.909
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2002,195660611165.183
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2003,234772463823.808
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2004,256836875295.452
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2005,285868619196.085
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2006,364570515618.357
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2007,432216737774.861
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2008,510228634992.258
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2009,539580085612.401
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2010,755094157621.936
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2011,892969104563.171
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2012,917869913332.649
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2013,912524136718.018
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2014,890814755533.537
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2015,860854232686.214
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2016,931877364037.698
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2017,1015618744159.73
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2018,1042271532988.63
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2019,1119099871350.2
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2020,1059054842698.48
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2021,1186509691086.73
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2022,1319101183380.15
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2023,1371166925749.88
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2024,1396301788461.69
+Indonesia,IDN,NY.GDP.MKTP.CD,gdp_usd,GDP (US$),Output,2025,1445642584163.81
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1984,32.3
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1987,30.4
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1990,31.1
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1993,31.8
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1996,34.2
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1998,30.9
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,1999,30.8
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2000,30.3
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2001,31.2
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2002,30.2
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2003,29.3
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2004,30.4
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2005,29.9
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2006,31.5
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2007,33.2
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2008,32.6
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2009,33.4
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2010,34.6
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2011,37.9
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2012,37.1
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2013,38.9
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2014,38.8
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2015,38.2
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2016,36.9
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2017,36.4
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2018,36.3
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2019,35.4
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2020,35.3
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2021,35.5
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2022,35.5
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2023,36.1
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2024,34.9
+Indonesia,IDN,SI.POV.GINI,gini,Gini index,Inequality,2025,34.4
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2000,1.85297656
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2001,2.11850214
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2002,1.98062706
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2003,2.24837184
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2004,2.12002277
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2005,2.53189397
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2006,2.61946416
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2007,2.82385564
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2008,2.54842305
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2009,2.62324095
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2010,2.7908783
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2011,2.98942471
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2012,2.91427088
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2013,2.86934805
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2014,2.96433568
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2015,2.92428517
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2016,3.02147198
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2017,2.90417194
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2018,2.86757827
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2019,2.87862897
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2020,3.42067289
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2021,3.70634937
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2022,2.69389749
+Indonesia,IDN,SH.XPD.CHEX.GD.ZS,health_pct_gdp,Health spend (% GDP),Social,2023,2.70239949
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1960,39.5904436860067
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1961,13.6919315403424
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1962,131.397849462365
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1963,145.910780669145
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1964,108.994708994709
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1965,306.763110307415
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1966,1136.2541122077
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1967,106.0
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1968,128.843042071197
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1969,15.4798773314404
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1970,12.399468513041
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1971,4.23374587741607
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1972,6.52174091852604
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1973,31.0418824339182
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1974,40.491811600695
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1975,19.1656916610533
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1976,19.8286499927534
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1977,11.0520846464477
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1978,8.11259425677378
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1979,16.2327695334308
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1980,18.035422125313
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1981,12.2659075874853
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1982,9.44542534921144
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1983,11.7997382076652
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1984,10.4550392231412
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1985,4.72453518543398
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1986,5.82266576732484
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1987,9.27865406602839
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1988,8.04535671530907
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1989,6.41554079916364
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1990,7.81919756505635
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1991,9.41906784347004
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1992,7.52351006242677
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1993,9.6719108926401
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1994,8.53199829189143
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1995,9.42030300572996
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1996,7.97328096513346
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1997,6.22615154887214
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1998,58.4510413515526
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,1999,20.4778324428892
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2000,3.68862037056682
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2001,11.5001160550887
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2002,11.9001200338414
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2003,6.75731256333564
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2004,6.06406189133648
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2005,10.4532001873347
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2006,13.108670985346
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2007,6.40656087966005
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2008,10.2266663272483
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2009,4.38641311792074
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2010,5.13420639015885
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2011,5.35604849112582
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2012,4.2795142691943
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2013,6.41249457900391
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2014,6.39492882396559
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2015,6.36312061196646
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2016,3.52580452815451
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2017,3.80879857691949
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2018,3.19834755924996
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2019,3.03058460941661
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2020,1.91983527270793
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2021,1.56007882983334
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2022,4.20946463714784
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2023,3.66938654859761
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2024,2.18151273615189
+Indonesia,IDN,FP.CPI.TOTL.ZG,inflation_pct,Inflation (%),Prices,2025,1.9133344329508
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1990,0.0
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1994,0.00106
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1995,0.0261
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1996,0.0566
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1997,0.195
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1998,0.255
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,1999,0.444
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2000,0.925563864466858
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2001,2.01861385948459
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2002,2.13413573295808
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2003,2.38701977959476
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2004,2.60028587633414
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2005,3.60202476259646
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2006,4.76481313366657
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2007,5.78627472934199
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2008,7.917500019
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2009,6.92
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2010,10.92
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2011,12.28
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2012,14.52
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2013,14.94
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2014,17.1431598350566
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2015,22.062742603379
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2016,25.447353701827
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2017,32.335806250688
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2018,39.9046386385762
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2019,47.6906489788375
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2020,53.72649449
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2021,62.10447842
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2022,66.48461277
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2023,69.20836554
+Indonesia,IDN,IT.NET.USER.ZS,internet_pct,Internet users (%),Technology,2024,72.78075544
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1961,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1962,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1963,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1964,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1965,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1966,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1967,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1968,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1969,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1970,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1971,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1972,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1973,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1974,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1975,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1976,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1977,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1978,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1979,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1980,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1981,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1982,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1983,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1984,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1985,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1986,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1987,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1988,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1989,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1990,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1991,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1992,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1993,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1994,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1995,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1996,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1997,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1998,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,1999,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2000,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2001,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2002,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2003,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2004,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2005,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2006,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2007,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2008,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2009,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2010,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2011,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2012,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2013,1910930.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2014,1910931.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2015,1913580.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2016,1913580.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2017,1916820.0
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2018,1916862.2
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2019,1916906.77
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2020,1916906.77
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2021,1916906.77
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2022,1916906.77
+Indonesia,IDN,AG.SRF.TOTL.K2,land_area_km2,Land area (km²),Geography,2023,1916906.77
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1990,66.365
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1991,65.946
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1992,66.316
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1993,65.625
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1994,66.798
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1995,66.834
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1996,66.87
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1997,66.338
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1998,66.93
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,1999,67.221
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2000,67.756
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2001,67.129
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2002,65.977
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2003,65.671
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2004,65.675
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2005,64.399
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2006,64.208
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2007,66.227
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2008,66.373
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2009,66.047
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2010,66.583
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2011,66.913
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2012,67.416
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2013,66.757
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2014,66.624
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2015,66.578
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2016,66.314
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2017,66.694
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2018,67.652
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2019,68.238
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2020,67.401
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2021,65.868
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2022,67.018
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2023,67.899
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2024,67.927
+Indonesia,IDN,SL.TLF.CACT.ZS,lf_participation_pct,Labour participation (%),Labour,2025,67.965
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1960,46.835
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1961,47.385
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1962,48.141
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1963,48.742
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1964,49.44
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1965,42.762
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1966,48.406
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1967,51.309
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1968,51.888
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1969,52.588
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1970,53.254
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1971,53.823
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1972,54.364
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1973,54.916
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1974,55.443
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1975,55.998
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1976,56.445
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1977,57.09
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1978,57.607
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1979,58.18
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1980,58.701
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1981,59.096
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1982,59.7
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1983,60.343
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1984,60.891
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1985,61.387
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1986,61.736
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1987,62.087
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1988,62.386
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1989,62.883
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1990,63.249
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1991,63.703
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1992,64.182
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1993,64.851
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1994,65.041
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1995,65.263
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1996,65.465
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1997,65.774
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1998,65.942
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,1999,66.001
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2000,66.292
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2001,66.583
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2002,66.954
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2003,67.134
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2004,65.521
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2005,67.531
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2006,67.664
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2007,67.914
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2008,68.085
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2009,68.267
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2010,68.364
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2011,68.629
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2012,68.862
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2013,69.064
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2014,69.292
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2015,69.52
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2016,69.733
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2017,69.953
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2018,70.08
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2019,70.349
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2020,68.817
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2021,67.452
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2022,70.925
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2023,71.146
+Indonesia,IDN,SP.DYN.LE00.IN,life_expectancy,Life expectancy (yrs),Demography,2024,71.288
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1960,88296070.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1961,90791249.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1962,93375850.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1963,96051424.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1964,98833749.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1965,101365130.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1966,103792754.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1967,106526393.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1968,109450006.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1969,112517639.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1970,115657495.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1971,118833702.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1972,122039841.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1973,125288515.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1974,128555045.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1975,131843848.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1976,135173655.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1977,138533541.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1978,141953163.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1979,145434834.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1980,148950540.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1981,152485035.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1982,156052152.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1983,159651381.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1984,163251124.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1985,166776185.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1986,170175065.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1987,173511154.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1988,176855065.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1989,180201630.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1990,183501098.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1991,186778238.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1992,190043744.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1993,193305168.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1994,196591828.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1995,199888057.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1996,203204348.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1997,206536095.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1998,209826788.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,1999,213004668.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2000,216077790.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2001,219097902.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2002,222088495.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2003,225048008.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2004,227926649.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2005,230871650.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2006,233951652.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2007,237062337.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2008,240157903.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2009,243220028.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2010,246305322.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2011,249470032.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2012,252698525.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2013,255852467.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2014,258877399.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2015,261799249.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2016,264627418.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2017,267346658.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2018,269951846.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2019,272489381.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2020,274814866.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2021,276758053.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2022,278830529.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2023,281190067.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2024,283487931.0
+Indonesia,IDN,SP.POP.TOTL,population,Population,Demography,2025,285721236.0
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1991,2.617
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1992,2.734
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1993,2.782
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1994,4.366
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1995,4.611
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1996,4.861
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1997,4.684
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1998,5.459
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,1999,6.358
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2000,6.077
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2001,6.082
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2002,6.604
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2003,6.657
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2004,7.303
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2005,7.945
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2006,7.551
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2007,8.06
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2008,7.208
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2009,6.106
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2010,5.614
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2011,5.153
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2012,4.468
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2013,4.336
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2014,4.049
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2015,4.514
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2016,4.301
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2017,3.783
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2018,4.387
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2019,3.59
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2020,4.255
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2021,3.827
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2022,3.462
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2023,3.308
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2024,3.301
+Indonesia,IDN,SL.UEM.TOTL.ZS,unemployment_pct,Unemployment (%),Labour,2025,3.237
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1960,14.6076543358271
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1961,14.8315031668716
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1962,15.0556141743538
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1963,15.2663218061679
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1964,15.4668037669967
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1965,15.663223950935
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1966,15.8617462520776
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1967,16.0685345645194
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1968,16.2897527823552
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1969,16.5315647996801
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1970,16.8001345105888
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1971,17.1011495609793
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1972,17.453166786076
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1973,17.8781647506989
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1974,18.3683266057108
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1975,18.914196501399
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1976,19.5063185880508
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1977,20.1352370159536
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1978,20.7914959353946
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1979,21.4656394966611
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1980,22.1466142996691
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1981,22.8406637690508
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1982,23.5724196827312
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1983,24.3433192272382
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1984,25.150523426766
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1985,25.9911933055087
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1986,26.8624898876605
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1987,27.7615741974155
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1988,28.6856072589677
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1989,29.6317500965114
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1990,30.5945178088725
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1991,31.5991952251753
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1992,32.6914992355049
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1993,33.8555422228307
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1994,35.0672005338812
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1995,36.3023505153847
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1996,37.5368685140699
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1997,38.746630876665
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1998,39.9075139498987
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,1999,40.9953940804992
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2000,41.9861540600656
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2001,42.9018895186157
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2002,43.7824069030376
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2003,44.6301761521872
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2004,45.4476736441888
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2005,46.2373757571669
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2006,47.0017588692457
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2007,47.7432993585496
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2008,48.4644736032029
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2009,49.16775798133
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2010,49.8521375148888
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2011,50.4830017089844
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2012,51.1593933105469
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2013,51.8307495117188
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2014,52.5002136230469
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2015,53.1720771789551
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2016,53.812557220459
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2017,54.4541015625
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2018,55.0956840515137
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2019,55.7382049560547
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2020,56.2785287648768
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2021,56.8761702464027
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2022,57.4934704226599
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2023,58.1179353397878
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2024,58.7509635387997
+Indonesia,IDN,SP.URB.TOTL.IN.ZS,urban_pct,Urban population (%),Demography,2025,59.3929063969984

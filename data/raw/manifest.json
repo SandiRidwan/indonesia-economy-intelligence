@@ -1,0 +1,121 @@
+[
+  {
+    "code": "NY.GDP.MKTP.CD",
+    "short": "gdp_usd",
+    "label": "GDP (US$)",
+    "category": "Output",
+    "n_points": 59
+  },
+  {
+    "code": "NY.GDP.MKTP.KD.ZG",
+    "short": "gdp_growth_pct",
+    "label": "GDP growth (%)",
+    "category": "Output",
+    "n_points": 65
+  },
+  {
+    "code": "NY.GDP.PCAP.CD",
+    "short": "gdp_per_capita_usd",
+    "label": "GDP per capita (US$)",
+    "category": "Output",
+    "n_points": 59
+  },
+  {
+    "code": "SP.POP.TOTL",
+    "short": "population",
+    "label": "Population",
+    "category": "Demography",
+    "n_points": 66
+  },
+  {
+    "code": "SP.URB.TOTL.IN.ZS",
+    "short": "urban_pct",
+    "label": "Urban population (%)",
+    "category": "Demography",
+    "n_points": 66
+  },
+  {
+    "code": "SP.DYN.LE00.IN",
+    "short": "life_expectancy",
+    "label": "Life expectancy (yrs)",
+    "category": "Demography",
+    "n_points": 65
+  },
+  {
+    "code": "FP.CPI.TOTL.ZG",
+    "short": "inflation_pct",
+    "label": "Inflation (%)",
+    "category": "Prices",
+    "n_points": 66
+  },
+  {
+    "code": "SL.UEM.TOTL.ZS",
+    "short": "unemployment_pct",
+    "label": "Unemployment (%)",
+    "category": "Labour",
+    "n_points": 35
+  },
+  {
+    "code": "SL.TLF.CACT.ZS",
+    "short": "lf_participation_pct",
+    "label": "Labour participation (%)",
+    "category": "Labour",
+    "n_points": 36
+  },
+  {
+    "code": "IT.NET.USER.ZS",
+    "short": "internet_pct",
+    "label": "Internet users (%)",
+    "category": "Technology",
+    "n_points": 32
+  },
+  {
+    "code": "BX.KLT.DINV.WD.GD.ZS",
+    "short": "fdi_pct_gdp",
+    "label": "FDI inflows (% GDP)",
+    "category": "Investment",
+    "n_points": 56
+  },
+  {
+    "code": "NE.EXP.GNFS.ZS",
+    "short": "exports_pct_gdp",
+    "label": "Exports (% GDP)",
+    "category": "Trade",
+    "n_points": 66
+  },
+  {
+    "code": "SE.XPD.TOTL.GD.ZS",
+    "short": "education_pct_gdp",
+    "label": "Education spend (% GDP)",
+    "category": "Social",
+    "n_points": 28
+  },
+  {
+    "code": "SH.XPD.CHEX.GD.ZS",
+    "short": "health_pct_gdp",
+    "label": "Health spend (% GDP)",
+    "category": "Social",
+    "n_points": 24
+  },
+  {
+    "code": "SI.POV.GINI",
+    "short": "gini",
+    "label": "Gini index",
+    "category": "Inequality",
+    "n_points": 33
+  },
+  {
+    "code": "EN.GHG.CO2.MT.CE.AR5",
+    "short": "co2_mt",
+    "label": "CO2 emissions (Mt)",
+    "category": "Environment",
+    "n_points": 55
+  },
+  {
+    "code": "AG.SRF.TOTL.K2",
+    "short": "land_area_km2",
+    "label": "Land area (km\u00b2)",
+    "category": "Geography",
+    "n_points": 63
+  }
+]
