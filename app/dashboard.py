@@ -22,6 +22,7 @@ sys.path.insert(0, str(ROOT / "src"))
 
 import analysis as A      # noqa: E402
 import forecast as F      # noqa: E402
+import explanations as X  # noqa: E402
 
 PROC = ROOT / "data" / "processed"
 
@@ -128,6 +129,10 @@ tab1, tab2, tab3, tab4 = st.tabs(["📈 Trends", "🧩 Comparison",
 
 # ============================ TRENDS ============================
 with tab1:
+    X.render("gdp_pc", st=st)
+    X.render("growth", st=st)
+    X.render("population_urban", st=st)
+    X.render("social", st=st)
     c1, c2 = st.columns(2)
     with c1:
         s = wide["gdp_per_capita_usd"].dropna()
@@ -189,6 +194,7 @@ with tab2:
     else:
         st.info("Pilih minimal satu indikator di sidebar.")
 
+    X.render("correlation", st=st)
     st.markdown("#### Correlation matrix (Pearson)")
     corr = A.correlation_matrix(wide, "pearson")
     keys = [k for k in ["gdp_per_capita_usd", "gdp_growth_pct", "inflation_pct",
@@ -205,6 +211,7 @@ with tab2:
 
 # ============================ FORECAST ============================
 with tab3:
+    X.render("forecast", st=st)
     fc = F.forecast_all(wide, horizon=5)
     ft = F.summary_table(fc, 5)
     st.markdown("#### Forecast summary (5-year horizon)")
@@ -237,6 +244,7 @@ with tab3:
 
 # ============================ CRISIS ============================
 with tab4:
+    X.render("eras", st=st)
     st.markdown("#### Impact of the two major crises")
     t = A.crisis_impact(wide)
     t2 = t.copy()
