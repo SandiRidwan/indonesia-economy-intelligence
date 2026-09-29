@@ -23,6 +23,8 @@ sys.path.insert(0, str(ROOT / "src"))
 import analysis as A      # noqa: E402
 import forecast as F      # noqa: E402
 import explanations as X  # noqa: E402
+import insights_content  # noqa: E402,F401
+import insight as INS  # noqa: E402
 
 PROC = ROOT / "data" / "processed"
 
@@ -147,6 +149,7 @@ with tab1:
                               annotation_text=lbl, annotation_font_size=9)
         style_fig(fig).update_layout(title="GDP per Capita (US$)")
         st.plotly_chart(fig, use_container_width=True)
+        INS.box("gdp_pc", st=st)
     with c2:
         s = wide["gdp_growth_pct"].dropna()
         s = s[(s.index >= rng[0]) & (s.index <= rng[1])]
@@ -154,6 +157,7 @@ with tab1:
         fig = go.Figure(go.Bar(x=s.index, y=s.values, marker_color=colors))
         style_fig(fig).update_layout(title="GDP Growth (%)", yaxis_title="%")
         st.plotly_chart(fig, use_container_width=True)
+        INS.box("growth", st=st)
 
     c3, c4 = st.columns(2)
     with c3:
@@ -163,6 +167,7 @@ with tab1:
         fig.update_traces(line_color=C["blue"], line_width=2.5)
         style_fig(fig).update_layout(title="Population (millions)")
         st.plotly_chart(fig, use_container_width=True)
+        INS.box("population_urban", st=st)
     with c4:
         inf = wide["inflation_pct"].dropna()
         inf = inf[(inf.index >= rng[0]) & (inf.index <= rng[1]) & (inf > 0)]
@@ -171,6 +176,7 @@ with tab1:
         fig.update_yaxes(type="log")
         style_fig(fig).update_layout(title="Inflation (%, log scale)")
         st.plotly_chart(fig, use_container_width=True)
+        INS.box("social", st=st)
 
 # ============================ COMPARISON ============================
 with tab2:
@@ -208,6 +214,7 @@ with tab2:
     fig.update_traces(textfont_size=8)
     style_fig(fig, 600).update_layout(title="Correlation Heatmap")
     st.plotly_chart(fig, use_container_width=True)
+    INS.box("correlation", st=st)
 
 # ============================ FORECAST ============================
 with tab3:
@@ -241,6 +248,7 @@ with tab3:
     st.plotly_chart(fig, use_container_width=True)
     st.caption("⚠️ Forecast uses recent-regime trend. Inflation is volatile — "
                "treat its forecast cautiously (high backtest error).")
+    INS.box("forecast", st=st)
 
 # ============================ CRISIS ============================
 with tab4:
@@ -264,6 +272,7 @@ with tab4:
                   line_width=0, annotation_text="2020", annotation_font_size=9)
     style_fig(fig, 430).update_layout(title="GDP Growth: 1998 vs 2020 recessions")
     st.plotly_chart(fig, use_container_width=True)
+    INS.box("eras", st=st)
 
 st.markdown(
     f"""<hr style="border-color:#2A3038;">
