@@ -150,3 +150,53 @@ register(
         "baru (digitalisasi, iklim, demografi)."),
     tingkat="sedang",
 )
+
+
+# --------------------------------------------------------------------------
+# Chart ECharts (v2) — insight & rekomendasi.
+# --------------------------------------------------------------------------
+
+register(
+    "echarts_parallel",
+    kesimpulan=(
+        "Parallel coordinates membandingkan profil 8 indikator antar-ERA ekonomi "
+        "(dinormalisasi 0–1). Terlihat pergeseran struktur: dari era GDP per "
+        "kapita rendah + populasi besar + internet nol, menuju era IPM tinggi + "
+        "internet tinggi + CO2 naik. Ini menegaskan Indonesia bergerak dari "
+        "ekonomi agraris ke ekonomi modern — tetapi dengan konsekuensi emisi."),
+    rekomendasi=[
+        "Baca pergeseran antar-era sebagai konteks kebijakan: setiap era punya "
+        "trade-off berbeda (pertumbuhan vs lingkungan).",
+        "Perhatikan sumbu yang stagnan/memburuk (mis. Gini, pengangguran) — di "
+        "situ prioritas kebijakan belum tersentuh.",
+        "Jangan bandingkan era krisis (1998/2020) langsung dengan era normal "
+        "tanpa konteks.",
+    ],
+    risiko=(
+        "Membaca tren jangka panjang tanpa memisahkan guncangan (krisis) "
+        "berisiko menyimpulkan 'perlambatan struktural' padahal itu efek sementara. "
+        "Sebaliknya, mengabaikan stagnasi sosial bisa menutupi masalah nyata."),
+    tingkat="sedang",
+)
+
+register(
+    "echarts_boxplot",
+    kesimpulan=(
+        "Boxplot indikator per dekade menunjukkan STABILITAS: kotak sempit = "
+        "pertumbuhan mulus (mis. GDP growth era 2000–2010an), kotak tinggi = "
+        "gejolak besar (era 1960an, krisis 1990an). Pencilan menandai kejadian "
+        "ekstrem — mis. kontraksi 1998 atau COVID 2020."),
+    rekomendasi=[
+        "Gunakan sebaran (bukan rata-rata) untuk menilai risiko indikator — "
+        "dekade bergejolak butuh penyangga kebijakan lebih besar.",
+        "Selidiki pencilan sebagai pelajaran krisis untuk kesiapan menghadapi "
+        "guncangan berikutnya.",
+        "Untuk perencanaan jangka panjang, jangkar pada dekade stabil, bukan "
+        "rata-rata seluruh periode.",
+    ],
+    risiko=(
+        "Mengambil rata-rata lintas dekade mencampur era stabil & krisis, "
+        "menghasilkan target yang tak realistis. Perencanaan berbasis angka itu "
+        "bisa gagal saat kondisi ekstrem kembali."),
+    tingkat="sedang",
+)

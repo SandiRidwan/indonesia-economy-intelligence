@@ -253,7 +253,7 @@ with tab2:
                             height=460)
     except Exception as _e:  # noqa: BLE001
         st.caption(f"parallel tak tersedia ({_e}).")
-    INS.box("correlation", st=st)
+    INS.box("echarts_parallel", st=st)
 
     st.markdown("#### Sebaran indikator lintas dekade (boxplot ECharts)")
     st.caption("Boxplot per dekade menunjukkan **seberapa stabil** tiap indikator: "
@@ -276,7 +276,7 @@ with tab2:
                 yname=LABELS.get(_selb, _selb), height=440)
     except Exception as _e:  # noqa: BLE001
         st.caption(f"boxplot tak tersedia ({_e}).")
-    INS.box("correlation", st=st)
+    INS.box("echarts_boxplot", st=st)
 
 # ============================ FORECAST ============================
 with tab3:
