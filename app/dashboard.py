@@ -25,6 +25,7 @@ import forecast as F      # noqa: E402
 import explanations as X  # noqa: E402
 import insights_content  # noqa: E402,F401
 import insight as INS  # noqa: E402
+import echarts_charts as EC  # noqa: E402  (parallel, boxplot)
 
 PROC = ROOT / "data" / "processed"
 
@@ -214,6 +215,67 @@ with tab2:
     fig.update_traces(textfont_size=8)
     style_fig(fig, 600).update_layout(title="Correlation Heatmap")
     st.plotly_chart(fig, use_container_width=True)
+    INS.box("correlation", st=st)
+
+    st.markdown("#### Profil lintas-era (parallel ECharts)")
+    st.caption("Parallel coordinates membandingkan **banyak indikator sekaligus** "
+               "per era. Tiap garis = satu era (dekade), setiap sumbu = satu "
+               "indikator (dinormalisasi 0–1). Terlihat jelas bahwa Indonesia "
+               "'bergeser' dari profil agraris ke profil ekonomi modern.")
+    try:
+        _core = [c for c in ["gdp_per_capita_usd", "life_expectancy", "urban_pct",
+                             "internet_pct", "exports_pct_gdp", "co2_mt",
+                             "unemployment_pct", "gini"] if c in wide.columns]
+        if len(_core) >= 3:
+            _raw_eras = A.__dict__.get("ERAS") or []
+            _eras = [(str(e[0]), int(e[1]), int(e[2])) for e in _raw_eras
+                     if len(e) >= 3]
+            # fallback: dekade
+            if not _eras:
+                _ymin, _ymax = int(wide.index.min()), int(wide.index.max())
+                _eras = [(f"{dec}s", dec, dec + 9)
+                         for dec in range((_ymin // 10) * 10, _ymax, 10)]
+            _means = pd.DataFrame(
+                {name: wide.loc[(wide.index >= y0) & (wide.index <= y1), _core]
+                 .mean() for name, y0, y1 in _eras}).T
+            _mm = (_means - _means.min()) / (_means.max() - _means.min()).replace(0, 1)
+            _axes, _rows, _names = [], [], []
+            for i, c in enumerate(_core):
+                _axes.append({"dim": i, "name": LABELS.get(c, c)})
+            for r in _mm.itertuples():
+                vals = [None if pd.isna(v) else float(v) for v in r[1:]]
+                if all(v is not None for v in vals):
+                    _rows.append(vals)
+                    _names.append(str(r.Index))
+            if _rows:
+                EC.parallel(_axes, _rows, names=_names,
+                            title="Profil indikator per era (dinormalisasi)",
+                            height=460)
+    except Exception as _e:  # noqa: BLE001
+        st.caption(f"parallel tak tersedia ({_e}).")
+    INS.box("correlation", st=st)
+
+    st.markdown("#### Sebaran indikator lintas dekade (boxplot ECharts)")
+    st.caption("Boxplot per dekade menunjukkan **seberapa stabil** tiap indikator: "
+               "kotak sempit = pertumbuhan mulus, kotak lebar = gejolak besar "
+               "(mis. inflasi pada dekade krisis).")
+    try:
+        _selb = st.selectbox("Indikator (boxplot)",
+                             [c for c in ["gdp_growth_pct", "inflation_pct",
+                                          "unemployment_pct", "life_expectancy",
+                                          "internet_pct"] if c in wide.columns],
+                             format_func=lambda k: LABELS.get(k, k),
+                             key="box_ind")
+        if _selb:
+            _s = wide[_selb].dropna()
+            _bydec = _s.groupby((_s.index // 10) * 10).apply(list)
+            EC.boxplot(
+                categories=[f"{int(k)}s" for k in _bydec.index],
+                values=[list(v) for v in _bydec.values],
+                title=f"Sebaran {LABELS.get(_selb, _selb)} per dekade",
+                yname=LABELS.get(_selb, _selb), height=440)
+    except Exception as _e:  # noqa: BLE001
+        st.caption(f"boxplot tak tersedia ({_e}).")
     INS.box("correlation", st=st)
 
 # ============================ FORECAST ============================
